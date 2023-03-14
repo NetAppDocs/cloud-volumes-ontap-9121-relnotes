@@ -20,15 +20,6 @@ Additional features and enhancements are also introduced in the latest versions 
 == 9.12.1 GA (9 February 2023)
 The General Availability (GA) release of Cloud Volumes ONTAP 9.12.1 is now available in AWS, Azure, and Google Cloud. The GA release includes bug fixes.
 
-=== China region support (13 March 2023)
-Cloud Volumes ONTAP is now supported in Azure as follows. 
-
-* Cloud Volumes ONTAP is supported in the China North 3 region.
-* Single node systems are supported. 
-* Licenses purchased directly from NetApp are supported.   
-
-For regional availability, see link:https://bluexp.netapp.com/cloud-volumes-global-regions[Global Regions Maps for Cloud Volumes ONTAP^].
-
 == 9.12.1 RC1 (8 December 2022)
 Cloud Volumes ONTAP 9.12.1 Release Candidate 1 is now available in AWS, Azure, and Google Cloud. This release includes the following new features and enhancements.
 

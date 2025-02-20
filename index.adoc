@@ -5,7 +5,7 @@ permalink: index.html
 summary: These release notes describe new features, limitations, and known issues for Cloud Volumes ONTAP 9.12.1.
 ---
 
-= Cloud Volumes ONTAP 9.12.1 Release Notes
+= Cloud Volumes ONTAP 9.12.1 release notes
 :hardbreaks:
 :nofooter:
 :icons: font
